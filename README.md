@@ -104,6 +104,7 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/IBMPredictiveAnalytics
 * https://github.com/IBM-skills-network
 * https://github.com/IBMruntimes
+* https://github.com/Illumina
 * https://github.com/Instagram
 * https://github.com/Intel
 * https://github.com/IntelLabs
@@ -129,12 +130,14 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/MicrosoftEdge
 * https://github.com/MicrosoftArchive
 * https://github.com/mitre
+* https://github.com/nanoporetech
 * https://github.com/Netflix
 * https://github.com/nginx
 * https://github.com/npm
 * https://github.com/Nvidia
 * https://github.com/OpenCageData
 * https://github.com/Oracle
+* https://github.com/PacificBiosciences
 * https://github.com/PayPal
 * https://github.com/Philips-internal
 * https://github.com/Philips-labs
